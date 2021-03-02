@@ -1,0 +1,79 @@
+2021-03-02 22:38:08,708 - Android device uid : emulator-5554
+2021-03-02 22:38:08,784 - Android release version 6.0.1
+
+2021-03-02 22:38:08,797 - apk full path: /Users/willcheng/Desktop/jenkins_auto/jenkins_appium/iAppium/apps/ContactManager.apk
+2021-03-02 22:38:22,011 - Automation test  finished.
+2021-03-02 22:40:44,417 - Android device uid : emulator-5554
+2021-03-02 22:40:44,429 - Android release version 6.0.1
+
+2021-03-02 22:40:44,435 - apk full path: /Users/willcheng/Desktop/jenkins_auto/jenkins_appium/iAppium/apps/ContactManager.apk
+2021-03-02 22:40:51,788 - Automation test  finished.
+2021-03-02 22:43:06,876 - Android device uid : emulator-5554
+2021-03-02 22:43:06,892 - Android release version 6.0.1
+
+2021-03-02 22:43:06,898 - apk full path: /Users/willcheng/Desktop/jenkins_auto/jenkins_appium/iAppium/apps/ContactManager.apk
+2021-03-02 22:43:15,508 - Automation test  finished.
+2021-03-02 22:45:47,040 - Android device uid : emulator-5554
+2021-03-02 22:45:47,057 - Android release version 6.0.1
+
+2021-03-02 22:45:47,067 - apk full path: /Users/willcheng/Desktop/jenkins_auto/jenkins_appium/iAppium/apps/ContactManager.apk
+2021-03-02 22:45:57,398 - Automation test  finished.
+2021-03-02 22:47:32,753 - Android device uid : emulator-5554
+2021-03-02 22:47:32,797 - Android release version 6.0.1
+
+2021-03-02 22:47:32,816 - apk full path: /Users/willcheng/Desktop/jenkins_auto/jenkins_appium/iAppium/apps/ContactManager.apk
+2021-03-02 22:47:42,335 - Automation test  finished.
+2021-03-02 23:10:37,461 - Android device uid : emulator-5554
+2021-03-02 23:10:37,477 - Android release version 6.0.1
+
+2021-03-02 23:10:37,482 - apk full path: /Users/willcheng/Desktop/jenkins_auto/jenkins_appium/iAppium/apps/ContactManager.apk
+2021-03-02 23:10:46,655 - Automation test  finished.
+2021-03-02 23:13:30,538 - Android device uid : emulator-5554
+2021-03-02 23:13:30,559 - Android release version 6.0.1
+
+2021-03-02 23:13:30,566 - apk full path: /Users/willcheng/Desktop/jenkins_auto/jenkins_appium/iAppium/apps/ContactManager.apk
+2021-03-02 23:13:38,529 - Automation test  finished.
+2021-03-02 23:16:17,495 - Android device uid : emulator-5554
+2021-03-02 23:16:17,514 - Android release version 6.0.1
+
+2021-03-02 23:16:17,521 - apk full path: /Users/willcheng/Desktop/jenkins_auto/jenkins_appium/iAppium/apps/ContactManager.apk
+2021-03-02 23:16:25,411 - Automation test  finished.
+2021-03-02 23:16:56,451 - Android device uid : emulator-5554
+2021-03-02 23:16:56,478 - Android release version 6.0.1
+
+2021-03-02 23:16:56,484 - apk full path: /Users/willcheng/Desktop/jenkins_auto/jenkins_appium/iAppium/apps/ContactManager.apk
+2021-03-02 23:17:03,884 - Implement drvier instance ...
+2021-03-02 23:17:06,189 - No confirm dialog.
+2021-03-02 23:17:07,331 - Click 'Add Contact' button！
+2021-03-02 23:17:11,592 - Input 'A San' into the Contact Name!
+2021-03-02 23:17:13,553 - Input Email!
+2021-03-02 23:17:15,540 - Click 'Save' button！
+2021-03-02 23:17:20,095 - No confirm dialog.
+2021-03-02 23:17:22,246 - Automation test ContactManager android automation test finished.
+2021-03-02 23:17:23,225 - Clean the contact manager app.
+2021-03-02 23:18:18,327 - Android device uid : emulator-5554
+2021-03-02 23:18:18,344 - Android release version 6.0.1
+
+2021-03-02 23:18:18,351 - apk full path: /Users/willcheng/Desktop/jenkins_auto/jenkins_appium/iAppium/apps/ContactManager.apk
+2021-03-02 23:18:25,615 - Implement drvier instance ...
+2021-03-02 23:18:28,296 - No confirm dialog.
+2021-03-02 23:18:29,463 - Click 'Add Contact' button！
+2021-03-02 23:18:33,596 - Input 'A San' into the Contact Name!
+2021-03-02 23:18:35,137 - Input Email!
+2021-03-02 23:18:36,677 - Click 'Save' button！
+2021-03-02 23:18:40,936 - No confirm dialog.
+2021-03-02 23:18:42,991 - Automation test ContactManager android automation test finished.
+2021-03-02 23:18:43,957 - Clean the contact manager app.
+2021-03-02 23:19:11,167 - Android device uid : emulator-5554
+2021-03-02 23:19:11,185 - Android release version 6.0.1
+
+2021-03-02 23:19:11,191 - apk full path: /Users/willcheng/Desktop/jenkins_auto/jenkins_appium/iAppium/apps/ContactManager.apk
+2021-03-02 23:19:17,892 - Implement drvier instance ...
+2021-03-02 23:19:20,557 - No confirm dialog.
+2021-03-02 23:19:21,705 - Click 'Add Contact' button！
+2021-03-02 23:19:25,426 - Input 'A San' into the Contact Name!
+2021-03-02 23:19:28,312 - Input Email!
+2021-03-02 23:19:30,467 - Click 'Save' button！
+2021-03-02 23:19:34,701 - No confirm dialog.
+2021-03-02 23:19:36,742 - Automation test ContactManager android automation test finished.
+2021-03-02 23:19:37,735 - Clean the contact manager app.
